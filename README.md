@@ -2,7 +2,7 @@
 
 An integrated Excel financial model for NEXT plc, combining historical financial statements, a five-year operating forecast, supporting schedules, accounting checks and an FCFF-based discounted cash flow valuation.
 
-![DCF sensitivity analysis](screenshots/02_dcf_sensitivity.png)
+![NEXT plc integrated financial model overview](screenshots/01_cover.png)
 
 ## Headline valuation
 
@@ -16,6 +16,8 @@ An integrated Excel financial model for NEXT plc, combining historical financial
 | Mature incremental ROIC | 20.0% |
 
 The model does not calibrate to the market price. Its base case implies a lower intrinsic value under the stated assumptions, with a WACC and terminal-growth sensitivity table showing the range of outcomes.
+
+![NEXT plc DCF sensitivity analysis](screenshots/04_dcf_sensitivity.png)
 
 ## Model coverage
 
