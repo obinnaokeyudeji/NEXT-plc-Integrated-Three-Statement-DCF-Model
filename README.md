@@ -2,8 +2,6 @@
 
 An integrated Excel financial model for NEXT plc, combining historical financial statements, a five-year operating forecast, supporting schedules, accounting checks and an FCFF-based discounted cash flow valuation.
 
-![NEXT plc model cover](screenshots/00_cover.jpg)
-
 ![DCF sensitivity analysis](screenshots/02_dcf_sensitivity.png)
 
 ## Headline valuation
